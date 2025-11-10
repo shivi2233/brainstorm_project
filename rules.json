@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Can you stack +2 cards on each other?",
+    "options": ["Yes", "No"]
+  },
+  {
+    "id": 2,
+    "question": "Can you play a +4 anytime?",
+    "options": ["Yes", "Only if you have no other playable card"]
+  },
+  {
+    "id": 3,
+    "question": "Can you end on an action card (Skip/Reverse/+2)?",
+    "options": ["Yes", "No"]
+  },
+  {
+    "id": 4,
+    "question": "Does Reverse change turn immediately?",
+    "options": ["Yes", "No"]
+  }
+]
